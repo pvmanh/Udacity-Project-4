@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![pvmanh](https://circleci.com/gh/pvmanh/Udacity-Project-4.svg?style=svg)](https://app.circleci.com/pipelines/github/pvmanh/Udacity-Project-4)
 
 ## Project Overview
 
